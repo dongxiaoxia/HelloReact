@@ -1,0 +1,18 @@
+.todoApp{
+    margin-left: 30%;
+    width: 40%;
+    text-align: center;
+    background-color: #009966;
+    border-radius: 15px;
+}
+.todo-list{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.todo-note{
+    color: white;
+    padding-bottom: 5px;
+}
+.todo-note span{
+    padding-right: 10px;
+}
