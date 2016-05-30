@@ -1,0 +1,23 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "react demo",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongxiaoxia/HelloReact.git"
+  },
+  "author": "dongxiaoxia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongxiaoxia/HelloReact/issues"
+  },
+  "homepage": "https://github.com/dongxiaoxia/HelloReact#readme"
+}
